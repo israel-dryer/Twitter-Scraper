@@ -1,0 +1,452 @@
+UserName,Handle,Timestamp,Comments,Likes,Retweets,Text
+Websystemer,@Websystemer,2020-09-20T06:23:53.000Z,"Polynote by Netflix — A Unified Notebook for Writing Polyglot Code - https://websystemer.no/polynote-by-netflix%e2%80%8a-%e2%80%8aa-unified-notebook-for-writing-polyglot-code/…
+
+ #machinelearning #multiplelanguagesupport #polynote #ravishankar #unifiednotebook",,,
+TheSequenceAI,@TheSequenceAI,2020-09-03T14:49:00.000Z,"-What’s the main limitation of data science notebooks in machine learning architectures?
+-What is the core capability of Netflix’s #Polynote?
+#QuizTime #datascience #machinelearning #programming #ArtificialIntelligence #netflix
+Our regular quiz is here:TheSequence Quiz
+Welcome to The Sequence Quiz. Are you ready to test your knowledge after reading TheSequence Edge#18? Be sure to be subscribed to TheSequence.ai if you haven't already: for the active participants we...
+docs.google.com",,3,2
+TheSequenceAI,@TheSequenceAI,2020-09-02T13:14:32.000Z,"Tomorrow:
++concept of production-ready notebooks
++the challenges with computational notebooks by 
+@MSFTResearch
+ 
++#Polynote, a next-generation notebook platform created by 
+@netflix
+ 
+Share and subscribe to get the deep dive!  
+https://thesequence.substack.com/subscribe
+#datascience #MachineLearningTheSequence
+(Core ML concepts + groundbreaking research papers and frameworks + AI news and trends) x 5 minutes, 3 times a week = you steadily becoming knowledgeable about fast developing AI space, saving a huge...
+thesequence.substack.com",,4,2
+Katie,@k80_ay,2020-08-26T18:43:44.000Z,"@netflix
+ #polynote got me likeGIF",,,
+Nick Vintila,@semanticbeeng,2020-08-11T16:31:12.000Z,"+ #Polynote uses #Jep (Java embedded Python) so that #JVM and #Python (CPython) code can run in same process space and calling each other seamlessly - no sockets like with #PySpark (see also #ApacheArrow as shared runtime)Quote Tweet
+Amine
+@AmineBenatmane
+ · Nov 8, 2019
+Check out #Polynote: an experimental polyglot #notebook environment by @Netflix that allows you to use multiple languages in one notebook. Currently, it supports #Scala and #Python (with or without #Spark), #SQL, and #Vega.
+
+Links:
+https://github.com/polynote/polynote…
+https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447…
+GIF",,1,2
+Switchboard Software,@switchboardsoft,2020-08-06T22:49:29.000Z,"Interesting innovation by Netflix...  Netflix’s Polynote is a New Open Source Framework to Build Better Data Science Notebooks - https://bit.ly/2DIdYnW #polynote #datascience #netflix #media #innovationNetflix’s Polynote is a New Open Source Framework to Build Better Data Science Notebooks - KDnuggets
+The new notebook environment provides substantial improvements to streamline experimentation in machine learning workflows.
+kdnuggets.com",,1,4
+Robert Zembowicz,@rzembo,2020-08-06T16:53:01.000Z,"Netflix’s Polynote - New Open Source Framework to Build Better Data Science Notebooks
+
+The new notebook environment provides substantial improvements to streamline experimentation in ML workflows
+
+#MachineLearning #DataScience #Polynote by Jesus RodriguezNetflix’s Polynote is a New Open Source Framework to Build Better Data Science Notebooks - KDnuggets
+The new notebook environment provides substantial improvements to streamline experimentation in machine learning workflows.
+kdnuggets.com",,4,1
+Ganesh Bhat,@ganesh3,2020-08-06T10:20:39.000Z,"#Netflix’s #Polynote is a New #OpenSource Framework to Build Better #DataScience Notebooks by 
+@jrdothoughtsNetflix’s Polynote is a New Open Source Framework to Build Better Data Science Notebooks
+The new notebook environment provides substantial improvements to streamline experimentation in machine learning workflows.
+link.medium.com",,3,2
+Colin McGuire,@realColinMac,2020-08-06T02:18:00.000Z,"@netflix
+'s #Polynote is a new open source framework to build better #DataScience notebooks 
+
+#Data #CodeNewbie #programming #100DaysOfCode #Python #DevOps #freeCodeCamp #STEM #engineering #javascript30 #rstats
+#startup #WomenWhoCodeNetflix’s Polynote is a New Open Source Framework to Build Better Data Science Notebooks - KDnuggets
+The new notebook environment provides substantial improvements to streamline experimentation in machine learning workflows.
+kdnuggets.com",,20,8
+Alfredo Olguin,@AlfredoOlguinG,2020-08-05T19:46:06.000Z,"Les recomiendo darle un vistazo a #Polynote la herramienta multilenguaje se software libre de #Netflix para #DataScienceNetflix’s Polynote is a New Open Source Framework to Build Better Data Science Notebooks - KDnuggets
+The new notebook environment provides substantial improvements to streamline experimentation in machine learning workflows.
+kdnuggets.com",,,2
+Lunatech,@LunatechLabs,2020-08-03T09:06:28.000Z,"In our Friday's tech talks series, Vincent Brulé explained the benefits of using #polynote, a better notebook for #scala on our YouTube channel. Enjoy 
+! #lunatechlabsLunatech Tech Talks: Polynote, a better notebook for Scala
+Lunatech Tech Talks: Polynote, a better notebook for Scala — Vincent Brulé - Software Developer Lunatech Netherlands For more reference please head to https:...
+youtube.com",,4,11
+nüktem,@NuktemLuta,2020-07-01T12:56:52.000Z,"2. Blog yazisi yayinda! 
+@useinsiderTR
+ 
+#MachineLearning #Zeppelin #Polynote #Netflix #BigData #ArtificialIntelligence #PredictiveAnalytics 
+
+Polynote vs Zeppelin: A Comparison by Ceren GüzelgünPolynote vs Zeppelin: A Comparison
+As the Predictive Business Unit, we utilize many different tools to make sure our workflow is as smooth as possible. Notebooks are one of…
+link.medium.com",,1,
+"Sascha Baumann
+#StayHome #StayHealthy #MaskeAuf",,2020-06-15T17:02:00.000Z," Listening to Ep. 268 of the 
+@TalkPython
+ podcast by Michael Kennedy <
+@MKennedy
+>.
+
+""Analyzing dozens of notebook environments"" w. 
+@SamLau95
+ & Philip Guo.
+
+https://bit.ly/2UJuZno ~ 54 min.
+
+#Development #Podcast #Python #Environment #Jupyter #Notebook #Callisto #Iodide #PolyNoteAnalyzing dozens of notebook environments
+Are you using interactive notebooks for your data exploration or day-to-day programming? What environment do you use? Was it Jupyter and now you've made the move to JupyterLab? That's a great choice....
+talkpython.fm",,,1
+dazfuller,@dazfuller,2020-05-31T11:08:32.000Z,"Okay, given all the shit happening right now, thought I'd update the ARM template for #polynote to match the 0.3.10 release which includes a dark theme.Release 0.3.10 · dazfuller/azure-arm-polynote-vm
+Updates to Polynote v0.3.10, also pre-installs matplotlib
+github.com",,,1
+Vincent Brule,@BruleVincent,2020-05-30T08:41:41.000Z,"Polynote 0.3.10 has been released yesterday with improvements and new features like a dark theme.
+
+Check out the release page: https://github.com/polynote/polynote/releases…
+
+#Polynote",,5,7
+dazfuller,@dazfuller,2020-02-08T09:16:04.000Z,"#Azure polynote server template updated to version v0.3.0. A fairly trivial release that...
+
+* Upgrades to the matching #polynote version. 
+* Adds a new default NSG rule opening up Spark-UI
+* Fixes a dumb typo in the readme (documentation matters kids)dazfuller/azure-arm-polynote-vm
+ARM template for deploying a Polynote server. Contribute to dazfuller/azure-arm-polynote-vm development by creating an account on GitHub.
+github.com",,1,
+dazfuller,@dazfuller,2020-01-18T10:34:18.000Z,"After finally spotting my notification that there had been _2_ updates to #polynote, I have updated my 
+@Azure
+ template to deploy it :)dazfuller/azure-arm-polynote-vm
+ARM template for deploying a Polynote server. Contribute to dazfuller/azure-arm-polynote-vm development by creating an account on GitHub.
+github.com",1,,
+shaun ryan,@Si_ShaunRyan,2020-01-01T09:41:18.000Z,"@databricks
+ I'd like to see this kind of experience in #databricks this year https://polynote.org #polynote and some UI improvements. ",,,
+dazfuller,@dazfuller,2019-12-29T15:53:39.000Z,"New Release: Updated the #Azure #Polynote VM template. New in this version
+
+* Updated #Polynote to version 0.2.15
+* Changed to distribution targeting #Scala 2.11
+* Fixed configuration which was preventing spark context from starting
+* Updated README
+
+https://github.com/dazfuller/azure-arm-polynote-vm…",,2,
+dazfuller,@dazfuller,2019-12-28T10:30:40.000Z,"Now updated to use version 0.2.14 of #polynotedazfuller/azure-arm-polynote-vm
+ARM template for deploying a Polynote server. Contribute to dazfuller/azure-arm-polynote-vm development by creating an account on GitHub.
+github.com",,,
+Eamonn Maguire,@antarcticdesign,2019-12-27T11:22:39.000Z,"Has anyone tried #polynote yet as a replacement for 
+@ProjectJupyter
+ ? Looks awesome! https://polynote.org #DataScience #visualization",,3,1
+Ben Hur,@benhur07b,2019-12-25T14:27:52.000Z,"Hmmm. Interesting. Will try to look into #Polynote.Quote Tweet
+Paul Blaser
+@paulblaser
+ · Dec 25, 2019
+“Polynote: the new Jupyter?” by Tom Titcombe https://link.medium.com/TIcqFxISH2",,,1
+Juarez Junior,@juarezjunior,2019-12-22T14:52:35.000Z,"#Polynote: the new #Jupyter? by Tom Titcombe in 
+@TDataSciencePolynote: the new Jupyter?
+There is a lot of buzz surrounding Polynote, Netflix’s multi-language notebook. But is it the Jupyter-killer, or is it all hype?
+towardsdatascience.com",,,
+Sanjeev Kumar,@dataPlumbers,2019-12-17T08:24:53.000Z,"Interesting to discover Netflix’s ‘#Jupyter Killer’ notebook #Polynote. Differentiators: Cell-based multi-language (#python, #scala, #sql) support, a simpler #IDE instead of a nicer #REPL, native data visualization and built-in dependency management.What You Need to Know About Netflix’s ‘Jupyter Killer’: Polynote
+It’s about time Jupyter Notebook has its worthy competitor
+towardsdatascience.com",,,2
+Gittaca,@gittaca,2019-12-15T12:58:52.000Z,"#PhDChat #RShiny #Jupyter #RMarkdown #Polynote #WritingCommunity #ClimateChangeQuote Tweet
+Sacha Saint-Leger
+@ssaintleger
+ · Feb 16, 2019
+'Today, even the most modern writing tools are designed around typing in words, not facts. These tools are suitable for promoting preconceived ideas... they encourage authors to fool themselves, and fool others.'
+http://worrydream.com/ClimateChange/#tools-technical…",,,1
+Filippo Rottoli,@Filippo_Rott,2019-12-12T21:34:38.000Z,"I’d love to have 
+@NetflixOSS
+ #Polynote polyglot notebook available for SageMaker in addition to 
+@ProjectJupyter
+ #AWSWishlist",1,,
+Bruno Neri,@neribr,2019-12-12T14:36:27.000Z,"Polynote at @FunScala2019 !
+A nice talk about a powerful polyglot notebook with 
+@jeremyrsmith
+  and 
+@IndigJonathan
+ on stage
+
+#functionalscala2019 #scala #polynote #zio",,,
+Francois Armand,@fanf42,2019-12-12T11:33:19.000Z,"#FunScala2019 after starting with cats, #polynote switched to #zio for the free cancellable everything... And they remained for the environment",1,2,3
+Francois Armand,@fanf42,2019-12-12T11:28:45.000Z,#FunScala2019 and the other main reason is because #polynote was developed using pure FP & FP effects - and it's efficient and easier even for new comers! Jonathan never developed in scala or pure effect before polynote and got up to speed (after a bit of jargon learned),1,,1
+Deniz Parmaksız,@dnzprmksz,2019-11-17T19:45:55.000Z,"Just published my first Medium post about 
+@WeAreNetflix
+'s brand new open-source notebook #Polynote! ""How to Run Polynote on AWS EMR?"" https://link.medium.com/6M30xbDhH1 #MachineLearning #awsHow to Run Polynote on AWS EMR?
+Netflix’s Jupyter-killer notebook meets real compute power with AWS EMR to fuel Apache Spark.
+link.medium.com",,,4
+Dariusz Kajtoch,@dariusz_kajtoch,2019-11-16T21:13:22.000Z,"Interested in #polynote systemd service?Spark stack and Polynote as a systemd service
+Spark stack and Polynote as a systemd service. GitHub Gist: instantly share code, notes, and snippets.
+gist.github.com",,,
+Antoine Doeraene,@doe_antoine,2019-11-16T19:35:45.000Z,"I started to try #polynote and it really feels like Jupyter is going back to stone age. Having #Scala as first class citizen is awesome! I'll start evangelize my company now :D Well done 
+@NetflixResearch
+ and 
+@jeremyrsmith
+!",,4,20
+softwaremill,@softwaremill,2019-11-14T14:56:00.000Z,"Everyone is talking about #Netflix’s #Polynote right now. Have you tried it? 
+@adamwarski
+ did, and have sent an HTTP request from this polyglot notebook.  The ready-to-play formula is on our blog and GitHub https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f… #http #sttp #scala cc: 
+@WeAreNetflixWorking with HTTP in Polynote
+Exploring some data using sttp client in a polynote notebook
+blog.softwaremill.com",,,7
+Adam Warski,@adamwarski,2019-11-14T10:37:22.000Z,"Working with HTTP in 
+@WeAreNetflix
+'s #Polynote: using #Scala & sttpWorking with HTTP in Polynote
+Exploring some data using sttp client in a polynote notebook
+blog.softwaremill.com",1,11,26
+Maja Ferle,@majaf1,2019-11-14T07:49:11.000Z,"What You Need to Know About Netflix’s ‘#Jupyter Killer’: #PolynoteWhat You Need to Know About Netflix’s ‘Jupyter Killer’: Polynote
+It’s about time Jupyter Notebook has its worthy competitor
+towardsdatascience.com",,,
+Fernando J. Mora Jr.,@fjmorajr,2019-11-13T23:55:05.000Z,"Want to play with the new #Polynote notebook from 
+@netflix
+? Here's how to get started with 
+@DominoDataLab
+:FAQ: Polynote from Netflix
+How do I add Netflix's Polynote as a workspace within Domino?
+community.dominodatalab.com",,,
+dazfuller,@dazfuller,2019-11-13T17:16:40.000Z,"Updated to use the latest version of #polynote if you want to try it outdazfuller/azure-arm-polynote-vm
+ARM template for deploying a Polynote server. Contribute to dazfuller/azure-arm-polynote-vm development by creating an account on GitHub.
+github.com",,,2
+Ganesh Bhat,@ganesh3,2019-11-13T16:03:16.000Z,"News: Arise All Ye #Notebooks #analytics #Jupyter #polynote #streamlit https://blog.ouseful.info/2019/10/24/news-arise-all-ye-notebooks/… via 
+@psychemediaNews: Arise All Ye Notebooks
+A handful of brief news-y items… Netflix Polynote Notebooks Netflix have announced a new notebook candidate, Polynote , capable of running polyglot notebooks (scala, Python, SQL) with fixed c…
+blog.ouseful.info",,1,
+𝚅𝚒𝚍𝚢𝚊𝚜𝚊𝚐𝚊𝚛 𝙼𝚊𝚌𝚑𝚞𝚙𝚊𝚕𝚕𝚒,@VidyasagarMSC,2019-11-12T12:54:15.000Z,"Up and running #polynote from 
+@NetflixOSS
+. Trying it with 
+@TensorFlow
+. Key takeaways
+
+- Multiple-language support #Python #Scala #SQL...
+- Intelligent code completion - Tried Python
+
+#OpenSource",,,3
+CloudMasters,@CloudMasters_ES,2019-11-11T09:23:53.000Z,"@Netflix
+ anunció hace unos días que #Polynote se convertiría en #OpenSource, un entorno portátil de programación en varios idiomas que se integra con #ApacheSpark y que ofrece un sólido soporte para #Scala, #Python y #SQL.
+
+https://cloudmasters.es/netflix-se-abre-al-open-source-para-simplificar-los-flujos-de-trabajo-basados-en-machine-learning-con-polynote/…
+
+#CloudMasters #CloudComputingNetflix se ""abre"" al Open Source para simplificar los flujos de trabajo basados en machine learning...
+El Machine Learning y el data science está muy a la orden del día y no es precisamente un paseo por la pradera, sin embargo, Netflix quiere racionalizar este arduo trabajo con una nueva plataforma de...
+cloudmasters.es",,,
+lgautier,@lgautier,2019-11-10T18:20:31.000Z,"After a first quick try, #Polynote seems to be able to use R through Python cells and #rpy2.",,,3
+Oscar Wijsman,@oscarwijsman,2019-11-10T18:02:45.000Z,"Netflix open-sources #Polynote, an IDE-inspired polyglot notebook that has Scala support, Apache Spark integration, and multi-language interoperability including Scala, Python, and SQLOpen-sourcing Polynote: an IDE-inspired polyglot notebook
+Jeremy Smith, Jonathan Indig, Faisal Siddiqi
+netflixtechblog.com",,1,2
+Mastibara,@mastibara,2019-11-08T19:14:01.000Z,"#Netflix open-sources #Polynote to simplify #datascience and #machinelearning workflows - VentureBeat https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/… via 
+@GoogleNewsNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,2,
+T Ali,@tauheedul,2019-11-02T16:55:16.000Z,"Getting started with Polynote: Netflix’s Data Science Notebooks by Tushar Chand Kapoor
+ https://medium.com/p/getting-started-with-polynote-netflixs-data-science-notebooks-47fa01eae156…
+
+#DataScience #MachineLearning #Notebook #PolynoteGetting started with Polynote: Netflix’s Data Science Notebooks
+Tushar Kapoor
+towardsdatascience.com",,,1
+Per Ardua ad Ortum Machina Sapientis,@jbfuqua,2019-11-02T15:23:35.000Z,"I haven’t tried it yet, but I’ve got to say I’m pretty excited!
+
+#datascience #python #scala #sql #polynoteNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,,
+dazfuller,@dazfuller,2019-11-01T19:19:07.000Z,"Today's simple change to my 
+@Azure
+ #polynote ARM template was to add a ""Deploy to Azure"" button.
+
+Deployment is now just clicking a button and filling in a form :)dazfuller/azure-arm-polynote-vm
+ARM template for deploying a Polynote server. Contribute to dazfuller/azure-arm-polynote-vm development by creating an account on GitHub.
+github.com",,,1
+hwingo,@hwingo,2019-11-01T12:42:09.000Z,"#Netflix #opensource #Polynote to simplify #datascience & #machinelearning workflows
+https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/…
+(#techgiant's multi-language programming notebook environment that integrates w #ApacheSpark, offers robust support for #Scala, #Python & #SQL)Netflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,,
+Spiros Margaris,@SpirosMargaris,2019-11-01T06:51:50.000Z,"Netflix open sources #Polynote,
+
+ an IDE-like polyglot notebook with Scala support and more
+
+https://buff.ly/2N8xLPD #fintech #AI #ArtificialIntelligence #MachineLearning 
+@PacktPub
+ #DataSciene 
+@suzatweet
+ @julianharris
+ @DimDrandakis",,2,3
+dazfuller,@dazfuller,2019-10-31T22:53:53.000Z,"Created an #Azure ARM template for deploying a #polynote server running on Ubuntu 18.04 LTS. It's a quick start for now and I'm sure there's plenty of things that can be improved on, feel free to add if you want to.dazfuller/azure-arm-polynote-vm
+ARM template for deploying a Polynote server. Contribute to dazfuller/azure-arm-polynote-vm development by creating an account on GitHub.
+github.com",,1,2
+Philip Domingo,@prtdomingo,2019-10-30T09:43:34.000Z,"#Polynote has a built-in VIM integration unlike to what I'm using in Databricks. Cool stuff 
+@Netflix
+!",,,
+D'ALMEIDA Benito,@BENITO1ER,2019-10-30T06:48:04.000Z,"#Netfix met #Polynote en #OpenSourceLeBigData.fr : Le Magazine Big Data et Cloud Computing
+Le magazine online dédié au Big Data & au Cloud Computing ! Avis d'experts, analyses, startups, chiffres et actualités du marché des mégadonnées.
+lebigdata.fr",,,
+Travis Sari,@travissari,2019-10-29T15:46:52.000Z,"What You Need to Know About Netflix’s ‘#Jupyter Killer’: #PolynoteWhat You Need to Know About Netflix’s ‘Jupyter Killer’: Polynote
+It’s about time Jupyter Notebook has its worthy competitor
+towardsdatascience.com",,,
+Stephen Redmond,@stephencredmond,2019-10-29T09:00:02.000Z,"Anyone tried out #Polynote? First impressions?
+
+https://towardsdatascience.com/netflix-open-sources-polynote-to-make-data-science-notebooks-better-8d6820535b25… https://lnkd.in/eg7B5Rd",,,1
+Subarna Lamsal,@LamsalSubarna,2019-10-29T08:35:26.000Z,#polynote #polyglot #vega,,,
+Wahid Russo,@crashwawa,2019-10-29T08:15:31.000Z,"#Netflix met en open source son outil  #Polynote #BigData #MachineLearningNetflix open-source Polynote pour simplifier la Data Science et le Machine Learning
+Netflix annonce l'open-sourcing de sa solution développée en interne Polynote pour simplifier les workflows de Data Science et de Machine Learning.
+lebigdata.fr",,5,
+amar naik,@amarrnaik,2019-10-28T18:14:06.000Z,"#DataScience
+#MachineLearning
+#OpenSource
+#polynoteOpen-sourcing Polynote: an IDE-inspired polyglot notebook
+Jeremy Smith, Jonathan Indig, Faisal Siddiqi
+netflixtechblog.com",,6,4
+RecruitingAffiliates,@RABigdatajobs,2019-10-28T17:13:46.000Z,"#ICYMI - Now a worthy competitor for #JupyterNotebook...#Netflix open sources #PolynoteWhat You Need to Know About Netflix’s ‘Jupyter Killer’: Polynote
+It’s about time Jupyter Notebook has its worthy competitor
+towardsdatascience.com",,,
+metasfresh,@metasfresh,2019-10-28T04:10:03.000Z,"Netflix #OpenSources #Polynote to simplify data science and machine learning workflowsNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,5,5
+ERDev,@ERDev882,2019-10-28T01:47:39.000Z,"How many people out there are excited to play with #Polynote? I'm hoping this builds a good community (said as someone who wants to develop PySpark, Scala, and pipelining skills).",,,1
+ René Solis,@IoTeacher,2019-10-28T00:17:18.000Z,"What You Need to Know About Netflix’s ‘#Jupyter Killer’: #Polynote What You Need to Know About Netflix’s ‘Jupyter Killer’: Polynote
+It’s about time Jupyter Notebook has its worthy competitor
+towardsdatascience.com",,,
+Data Scientists,@DataScientistsF,2019-10-27T19:16:05.000Z,"Netflix open-sources Polynote to simplify data science and machine learning workflows  https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/… … via 
+@VentureBeat
+ #polynote #netflix #opensource #datascience #MachineLearning - https://twitter.com/GabriellePrat/status/1188519642823823364… #DataScience thanks 
+@RichardEudesQuote Tweet
+Gabrielle Prat
+@GabriellePrat
+ · Oct 27, 2019
+Netflix open-sources Polynote to simplify data science and machine learning workflows https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/… via @VentureBeat #polynote #netflix #opensource #datascience #MachineLearning",,3,
+Big Data Analytics,@BigData_Fr,2019-10-27T19:09:25.000Z,"Netflix open-sources Polynote to simplify data science and machine learning workflows  https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/… … via 
+@VentureBeat
+ #polynote #netflix #opensource #datascience #MachineLearning https://twitter.com/GabriellePrat/status/1188519642823823364#BigData… #Analytics thanks 
+@RichardEudesQuote Tweet
+Gabrielle Prat
+@GabriellePrat
+ · Oct 27, 2019
+Netflix open-sources Polynote to simplify data science and machine learning workflows https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/… via @VentureBeat #polynote #netflix #opensource #datascience #MachineLearning",,,
+Gabrielle Prat,@GabriellePrat,2019-10-27T18:15:39.000Z,"Netflix open-sources Polynote to simplify data science and machine learning workflows https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/… via 
+@VentureBeat
+ #polynote #netflix #opensource #datascience #MachineLearningNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,9,2
+Knowbella Tech,@knowbella,2019-10-27T17:52:17.000Z,"New #OpenSource #Polynote to Make #DataScienceNotebooks Better
+
+The new notebook environment provides substantial improvements to streamline experimentation in #MachineLearning workflows.
+
+Thanks to Netflix
+
+#IDE #Python #OpenData…https://lnkd.in/e93EjQX https://lnkd.in/e-v2NiAJason E. Barkeloo 杰森 posted on LinkedIn
+New #OpenSource #Polynote to Make #DataScienceNotebooks Better The new notebook environment provides substantial improvements to streamline experimentation...
+linkedin.com",,2,2
+Dataiku,@dataiku,2019-10-27T16:07:59.000Z,"@Netflix
+ open sources #Polynote to simplify data science workflows. | http://bit.ly/36ajUjk #datascience #ai #artificialintelligence #machinelearning #tech #coding #AI #neuralnetwork #algorithm #analyses #data #science #datascientistNetflix Open Sources Polynote, Opening up Machine Learning Workflows for All
+In a bid to try and keep machine learning and science data as simple as possible, Netflix has open-sourced its Polynote platform.
+interestingengineering.com",,,
+Craig Milroy,@CraigMilroy,2019-10-27T12:48:02.000Z,"What You Need to Know About #Netflix’s ‘#Jupyter Killer’: #Polynote 
+ by 
+@lymenlee
+ https://buff.ly/2BJgVQF #datascience #python #MachineLearning #AI #Cloud",,,
+Aditya Gupta,@adityaguptai,2019-10-27T04:43:58.000Z,"The future of Jupyter Notebooks is here.
+Netflix open sources their Amazing Jupyter Notebook like IDE named #PolyNote.
+
+Its truly PolyNote as you can run #Scala, #Python and #SQL in the same Notebook in different cells. It's supports Apache #Spark as wellOpen-sourcing Polynote: an IDE-inspired polyglot notebook
+Jeremy Smith, Jonathan Indig, Faisal Siddiqi
+link.medium.com",,,
+RMS,@RochMNseo,2019-10-27T01:23:42.000Z,"https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/…
+
+#polynote #MachineLearningNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,2,
+__bathia_mkwr__,@bathia_mkwr,2019-10-26T17:47:37.000Z,"Netflix just announced the open-source launch of #Polynote, a new #Polyglot #notebook type that supports multiple languages, including #Python, with #ApacheSpark integration, #Scala support, and as-you-type autocomplete among other things.
+
+Github: https://lnkd.in/eCBqjNH",,1,3
+Oleg Shvaikovsky,@shvaikovsky,2019-10-25T20:00:32.000Z,"#Netflix just announced the #OpenSource launch of #Polynote,  new Polyglot notebook type that supports multiple #languages, including #Python, with #Apache #Spark integration, first-class #Scala support, as-you-type autocomplete, and more
+#MachineLearningNetflix just open-sourced Polynote, a cool Machine Learning, and Data Science workflow tool |...
+Netflix just open-sourced Polynote, a cool machine learning, and data science workflow tool. Netflix just announced the open-source launch of Polynote,
+marktechpost.com",1,,2
+Andrew Willacy,@awillacy,2019-10-25T19:13:01.000Z,#Netflix open-sources #Polynote to simplify data science and machine learning workflows https://buff.ly/33UP3oF,,1,3
+Mukund Srinivasan,@msriniva,2019-10-25T18:01:42.000Z,"One of the most relevant and practical applications of #AI viz. #Recommendation engine & #Personalization models, get democratized, courtesy 
+@Netflix
+'s open sourcing of #Polynote. #DataScienceNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,1,1
+Yuriy Pakhotin,@pakhotin,2019-10-25T15:39:21.000Z,"New but potentially promising player enters the Game of Notebooks! Netflix released to open source domain #Polynote which is a new experimental #notebook environment for #DataScience and #MachineLearning. It is similar to #Jupyter and #Zeppelin but it ena…Yuriy Pakhotin posted on LinkedIn
+New but potentially promising player enters the Game of Notebooks! Netflix released to open source domain #Polynote which is a new experimental #notebook...
+linkedin.com",,,
+hwingo,@hwingo,2019-10-25T14:27:18.000Z,"#Netflix open-sources #Polynote to simplify #datascience & #machineLearning workflows
+
+https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/…
+via 
+@VentureBeat
+ @rudyagovic
+ @netflix
+#OpenSource #ApacheSpark #Scala #Python #SQL #innovation #AI #DevOps #techGIF",,1,
+Ian Yorston,@IanYorston,2019-10-25T14:08:36.000Z,"#DataScience
+
+#PolyNote is a notebook environment that integrates the 
+@NetflixResearch
+ JVM-based ML platform — which makes heavy use of #Scala — with the #Python ecosystem’s popular #MachineLearning and visualization libraries.Open-sourcing Polynote: an IDE-inspired polyglot notebook
+Jeremy Smith, Jonathan Indig, Faisal Siddiqi
+netflixtechblog.com",1,,
+Miguel Ballesteros,@mi_balle,2019-10-25T10:32:10.000Z,"Sounds good, let's see when I'll have thechanceto play with it. #polynoteNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,,
+JAXenter.com,@JAXenterCOM,2019-10-25T10:03:59.000Z,#Netflix adds to open source with Mantis and #Polynote http://bit.ly/31QmmYV,,,
+Unit8,@unit8co,2019-10-25T08:04:49.000Z," Unit8’s Friday recommended read 
+: Thanks 
+@netflix
+  for open-sourcing #Polynote - a new, polyglot notebook with good Scala support! Happy Friday everyone and enjoy the read! #unit8 #Netflix #Polynote #notebook #Scala #AI #MLOpen-sourcing Polynote: an IDE-inspired polyglot notebook
+Jeremy Smith, Jonathan Indig, Faisal Siddiqi
+netflixtechblog.com",,1,2
+Charly Wargnier,@DataChaz,2019-10-25T07:41:49.000Z,"Huge.
+@netflixoss
+'s #Polynote is a new open-source IDE which supports mixing multiple languages (#Scala, #Python & #SQL) in 1 notebook! 
+Also built-in:
+-#Intellisense autocomplete 
+-Errors highlighting
+-
+@apachespark_
+ integration 
+-
+@vega_vis
+ plot editorOpen-sourcing Polynote: an IDE-inspired polyglot notebook
+Jeremy Smith, Jonathan Indig, Faisal Siddiqi
+netflixtechblog.com",1,1,5
+The Elite Analyst,@TheEliteAnalyst,2019-10-24T15:44:28.000Z,#Polynote #ML #DataScience https://lnkd.in/ejCpCte,,,
+The Elite Analyst,@TheEliteAnalyst,2019-10-24T15:17:18.000Z,#Polynote #ML #DataScience https://lnkd.in/eamaQDg,,,
+invectorlabs,@invectorlabs,2019-10-24T12:59:57.000Z,Netflix Open Sources Polynote to Make Data Science Notebooks Better https://medium.com/p/netflix-open-sources-polynote-to-make-data-science-notebooks-better-8d6820535b25… #datascience #machinelearning #deeplearning #ArtificialIntelligence #InvectorLabs #NetflixOSS #NetflixResearch #Polynote,,,
+Jesus Rodriguez,@jrdothoughts,2019-10-24T12:58:43.000Z,Netflix Open Sources Polynote to Make Data Science Notebooks Better https://medium.com/p/netflix-open-sources-polynote-to-make-data-science-notebooks-better-8d6820535b25… #datascience #machinelearning #deeplearning #ArtificialIntelligence #InvectorLabs #NetflixOSS #NetflixResearch #Polynote,,,
+Tristan Piron,@PironTristan,2019-10-24T12:10:42.000Z,"Netflix open-sources Polynote to simplify data science and machine learning workflows https://venturebeat.com/2019/10/23/netflix-open-sources-polynote-to-simplify-data-science-and-machine-learning-workflows/… #polynoteNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,,
+Josep Curto Díaz,@josepcurto,2019-10-24T06:09:51.000Z,"After #jupyterlab, #rnotebook, #apachezeppelin, now #polynote another #polyglot 
+#notebook for #scala #python #datascience https://polynote.org",,3,2
+Spiros Margaris,@SpirosMargaris,2019-10-24T00:31:01.000Z,"Netflix open-sources #Polynote 
+
+to simplify #DataScience and #MachineLearning workflows 
+
+https://buff.ly/33UP3oF #fintech #AI #ArtificialIntelligence #DeepLearning #BigData 
+@KYLE_L_WIGGERS
+ @VentureBeat
+ @HaroldSinnott
+ @mclynd
+ @sallyeaves
+ @horstwilmes
+ @YuHelenYu
+ @terence_mills",2,37,26
+Lucio Albenga,@LucioAlbenga,2019-10-23T22:34:08.000Z,"Netflix libera Polynote una plataforma similar a Junyper con soporte Scala, integración Apache Spark, interoperabilidad en varios lenguajes, incluidos Scala, Python y SQL, autocompletado a medida que se escribe y más
+
+#Polynote #Scala #ApacheSpark #PyhonOpen-sourcing Polynote: an IDE-inspired polyglot notebook
+Jeremy Smith, Jonathan Indig, Faisal Siddiqi
+netflixtechblog.com",,1,3
+mark allen,@MarkAllen_Tech,2019-10-23T21:35:44.000Z,"Netflix open-sources Polynote to simplify data science and machine learning workflows   #polynote #datascienceNetflix open-sources Polynote to simplify data science and machine learning workflows
+Netflix today open-sourced Polynote, a freely available tool designed to bolster data science and machine learning development.
+venturebeat.com",,1,5
+Linas Baltrunas,@LinasTw,2019-10-23T18:13:42.000Z,"@NetflixResearch
+ open sourced polynote - a new notebook for spark/scala/python that I use every day and highly recommend. Among other features, it has great code completion and explicit information about status of spark kernel. https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447… #scala #polynote #ml #sparkOpen-sourcing Polynote: an IDE-inspired polyglot notebook
+Jeremy Smith, Jonathan Indig, Faisal Siddiqi
+netflixtechblog.com",3,7,20
+Itay Niv,@Itay_niv,2018-07-10T17:33:28.000Z,"If you happen to be in New York this week go check out amazing #liminalinstruments show happening in 
+@WhiteBoxNY
+ . I’m showing my #Polynote interactive music instrument there along with other amazing music projects from talented 
+@itp_nyu
+ student and alumni.",,,1
+zumay@,zumay@,2016-12-30T09:46:01.000Z,"Replying to 
+@zumaya1217・連続ノーツは高難易度曲だと少し叩きにくい。(覚えるしかない)
+・色、形の違いがあるが、いまいちよくわかんね。
+・「長押しでスタート」めっちゃ楽なんですけど
+・iPad Airでは判定-5前後かな？
+
+というかこれほぼ #ToneSphere じゃねーか！
+
+#polynote",,,1
+zumay@,zumay@,2016-12-30T09:38:57.000Z,"#polynote α版
+
+画像あげていいのかわからないけどあげます
+ちょっとした感想も(フィードバックは送りました)
+
+・トランスの曲多いからタイトルもトランス曲
+(空っぽい背景)
+
+・オプションの解説が丁寧",1,,1
