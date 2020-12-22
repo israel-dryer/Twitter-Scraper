@@ -3,7 +3,7 @@
         A simple search-based twitter scraper
 
     LAST MODIFIED:
-        2020-12-19
+        2020-12-21
 
     AUTHOR:
         Israel Dryer
@@ -17,10 +17,10 @@
     - Each record is saved while scraping instead of all at the end; minimizing data loss for a failed session.
 
     NOTES AND THINGS TO THINK ABOUT:
-    - Twitter will block you from logging in via the webdriver if you log in too many times in a single day.
+    - Twitter will block you from logging (temporary) in via the webdriver if you log in too many times in a single day.
 
     - The `scroll_down_page` function has an argument for `num_seconds_to_load` that represents the num of
-    seconds that the program will wait until attempting to scroll again. I'm currently making 5 attemps with
+    seconds that the program will wait until attempting to scroll again. I'm currently making 5 attempts with
     a pause between. You could also increase the number of max attempts and decrease the `num_seconds_to_load`.
     This could possibly speed up the scraping as you would be more likely to get to a successfull scroll down
     quicker.
@@ -36,7 +36,7 @@
     - Feel free to replace the `save_tweet_data_to_csv` function with any other `io` option you want, such
     as a database save via `pyodbc`, `sqlite3`, or whatever you want really.
 
-    - I encourage you to explort the "Advanced Search" functionality. Try adding your criteria and see how the url
+    - I encourage you to explore the "Advanced Search" functionality. Try adding your criteria and see how the url
      is built. You can then leverage this to make your searches more customized... with date ranges, special keywords,
      etc...  --> https://twitter.com/search-advanced?
 """
@@ -95,11 +95,9 @@ def find_search_input_and_enter_criteria(search_term, driver):
 
 def change_page_sort(tab_name, driver):
     """Options for this program are `Latest` and `Top`"""
-    WebDriverWait(driver, 10).until(expected_conditions.presence_of_element_located((By.LINK_TEXT, tab_name)))
     tab = driver.find_element_by_link_text(tab_name)
     tab.click()
     xpath_tab_state = f'//a[contains(text(),\"{tab_name}\") and @aria-selected=\"true\"]'
-    WebDriverWait(driver, 10).until(expected_conditions.presence_of_element_located((By.XPATH, xpath_tab_state)))
 
 
 def generate_tweet_id(tweet):
@@ -197,7 +195,6 @@ def extract_data_from_current_tweet_card(card):
 def main(username, password, search_term, filepath, page_sort='Latest'):
     save_tweet_data_to_csv(None, filepath, 'w')  # create file for saving records
     last_position = None
-    curr_position = None
     end_of_scroll_region = False
     unique_tweets = set()
 
@@ -230,8 +227,8 @@ def main(username, password, search_term, filepath, page_sort='Latest'):
 
 
 if __name__ == '__main__':
-    usr = "first_last@gmail.com"
-    pwd = "topsecret2020"
+    usr = "email@gmail.com"
+    pwd = "password"
     path = 'pysimplegui.csv'
     term = 'pysimplegui'
 
