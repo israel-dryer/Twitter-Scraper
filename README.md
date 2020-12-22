@@ -21,6 +21,6 @@ time if specific conditions are not met. There are many other sections of this c
 improved, I'm sure, by leveraging this class.
 - Feel free to replace the `save_tweet_data_to_csv` function with any other `io` option you want, such
 as a database save via `pyodbc`, `sqlite3`, or whatever you want really.
-- I encourage you to explort the "Advanced Search" functionality. Try adding your criteria and see how the url
+- I encourage you to explore the "Advanced Search" functionality. Try adding your criteria and see how the url
  is built. You can then leverage this to make your searches more customized... with date ranges, special keywords,
  etc...  --> https://twitter.com/search-advanced?
