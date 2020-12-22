@@ -82,12 +82,7 @@ def login_to_twitter(username, password, driver):
 
 def find_search_input_and_enter_criteria(search_term, driver):
     xpath_search = '//input[@aria-label="Search query"]'
-    try:
-        WebDriverWait(driver, 10).until(expected_conditions.presence_of_element_located((By.XPATH, xpath_search)))
-        search_input = driver.find_element_by_xpath(xpath_search)
-    except exceptions.TimeoutException:
-        print("Timeout while waiting for search input.")
-        return False
+    search_input = driver.find_element_by_xpath(xpath_search)
     search_input.send_keys(search_term)
     search_input.send_keys(Keys.RETURN)
     return True
