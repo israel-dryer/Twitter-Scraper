@@ -7,7 +7,6 @@ IMPROVEMENTS:
 - Each record is saved while scraping instead of all at the end; minimizing data loss for a failed session.
 
 NOTES AND THINGS TO THINK ABOUT:
-- Twitter will block you from logging in via the webdriver if you log in too many times in a single day.
 - The `scroll_down_page` function has an argument for `num_seconds_to_load` that represents the num of
 seconds that the program will wait until attempting to scroll again. I'm currently making 5 attemps with
 a pause between. You could also increase the number of max attempts and decrease the `num_seconds_to_load`.
